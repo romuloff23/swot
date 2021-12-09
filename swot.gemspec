@@ -520,6 +520,7 @@ Gem::Specification.new do |s|
     "lib/domains/br/com/uvvnet.txt",
     "lib/domains/br/creupi.txt",
     "lib/domains/br/eb/ime.txt",
+    "lib/domains/br/edu/faculdadeideal/alunos.txt",
     "lib/domains/br/edu/claretiano.txt",
     "lib/domains/br/edu/faciplac.txt",
     "lib/domains/br/edu/ibta.txt",
